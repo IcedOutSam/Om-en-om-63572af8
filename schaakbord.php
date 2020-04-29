@@ -15,7 +15,7 @@
                 echo "<td class=blokwit height=50px width=50px bgcolor=#FF0000></td>";
           } else {
                 echo "<td class=blokzwart height=50px width=50px bgcolor=#000000></td>";
-          }
+        }
       }
       echo "</tr>";
   }
